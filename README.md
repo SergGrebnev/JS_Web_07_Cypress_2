@@ -15,7 +15,7 @@ https://github.com/netology-code/jsaqa-homeworks/blob/main/7-07.md
 
   ## Задача 1. Cypress. Установка и настройка проекта
 
- 1. Изучите [приложение](https://github.com/Evgeniy-Varlamov/FS21-diplom) для работы с бронирование билетов в кино.
+ 1. Изучите [приложение](https://github.com/Evgeniy-Varlamov/FS21-diplom) для работы с бронирование билетов в кино. (http://qamid.tmweb.ru/client/index.php)
  2. Приложение в процессе разработки, и многие функциональности ещё не готовы. Вы можете тестировать бронирование билетов, логин в админку.
  3. Создайте новый проект для тестов на Cypress.
  4. Создайте:
