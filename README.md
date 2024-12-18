@@ -3,7 +3,7 @@
 
 [Ссылка на Dashboard](https://cloud.cypress.io/projects/jiyr4g/runs/4), как результат здания 2
 
-[Ссылка на Dashboard](https://cloud.cypress.io/projects/9niai2/runs/1), как результат здания 3
+[Ссылка на Dashboard](https://cloud.cypress.io/projects/9niai2/runs/1), как [результат здания 3](https://github.com/SergGrebnev/JS_Web_07_Cypress_2_3)
 
 [Исходник](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-07.md)
 # Домашнее задание к занятию «7.7. Cypress 2»
