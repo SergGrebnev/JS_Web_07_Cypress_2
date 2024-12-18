@@ -1,0 +1,18 @@
+{
+  "name": "07_cypress_2",
+  "version": "1.0.0",
+  "description": "ИдёмВКино",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "npx cypress open",
+    "cypress1": "cypress run --headed --browser chrome",
+    "cypress2": "cypress run --headless --browser chrome",
+    "cloud": "npx cypress run --record --key 78a6a840-ab98-47d2-9c93-ed3028eb4d96"
+  },
+  "author": "SergGrebnev",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.16.1"
+  }
+}
