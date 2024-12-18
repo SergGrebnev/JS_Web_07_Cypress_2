@@ -1,7 +1,9 @@
 # JS_Web_07_Cypress_2
 Приложение: "ИдёмВКино"
 
-https://github.com/netology-code/jsaqa-homeworks/blob/main/7-07.md
+[Ссылка на Dashboard](https://cloud.cypress.io/projects/jiyr4g/runs/4), как результат здания 2
+
+[Исходник](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-07.md)
 # Домашнее задание к занятию «7.7. Cypress 2»
 
 Любые вопросы по решению задач задавайте в чате учебной группы.
